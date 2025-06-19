@@ -1,0 +1,7 @@
+[01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_service_server.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Karduinobot_msgs/srv/add_two_ints.hpp: No such file or directory
+    3 | #include [01;31m[K<arduinobot_msgs/srv/add_two_ints.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/simple_service_server.dir/build.make:76: CMakeFiles/simple_service_server.dir/src/simple_service_server.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/simple_service_server.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

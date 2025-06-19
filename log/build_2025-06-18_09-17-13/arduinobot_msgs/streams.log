@@ -1,0 +1,42 @@
+[0.019s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devansh/arduinobot_ws/src/arduinobot_msgs -DCMAKE_INSTALL_PREFIX=/home/devansh/arduinobot_ws/install/arduinobot_msgs
+[0.139s] -- The C compiler identification is GNU 11.4.0
+[0.223s] -- The CXX compiler identification is GNU 11.4.0
+[0.235s] -- Detecting C compiler ABI info
+[0.314s] -- Detecting C compiler ABI info - done
+[0.320s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.321s] -- Detecting C compile features
+[0.321s] -- Detecting C compile features - done
+[0.324s] -- Detecting CXX compiler ABI info
+[0.412s] -- Detecting CXX compiler ABI info - done
+[0.419s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.419s] -- Detecting CXX compile features
+[0.419s] -- Detecting CXX compile features - done
+[0.428s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.572s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.670s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.746s] -- Added test 'lint_cmake' to check CMake code style
+[0.747s] -- Added test 'xmllint' to check XML markup files
+[0.749s] -- Configuring done
+[0.752s] -- Generating done
+[0.754s] -- Build files have been written to: /home/devansh/arduinobot_ws/build/arduinobot_msgs
+[0.758s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devansh/arduinobot_ws/src/arduinobot_msgs -DCMAKE_INSTALL_PREFIX=/home/devansh/arduinobot_ws/install/arduinobot_msgs
+[0.760s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_msgs -- -j12 -l12
+[0.802s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_msgs -- -j12 -l12
+[0.803s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_msgs
+[0.810s] -- Install configuration: ""
+[0.810s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/package_run_dependencies/arduinobot_msgs
+[0.811s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/parent_prefix_path/arduinobot_msgs
+[0.811s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/ament_prefix_path.sh
+[0.811s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/ament_prefix_path.dsv
+[0.811s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/path.sh
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/environment/path.dsv
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.bash
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.sh
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.zsh
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/local_setup.dsv
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/package.dsv
+[0.812s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/ament_index/resource_index/packages/arduinobot_msgs
+[0.813s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgsConfig.cmake
+[0.813s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/cmake/arduinobot_msgsConfig-version.cmake
+[0.813s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_msgs/share/arduinobot_msgs/package.xml
+[0.815s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_msgs

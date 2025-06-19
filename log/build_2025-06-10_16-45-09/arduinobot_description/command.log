@@ -1,0 +1,6 @@
+Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devansh/arduinobot_ws/src/arduinobot_description -DCMAKE_INSTALL_PREFIX=/home/devansh/arduinobot_ws/install/arduinobot_description
+Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devansh/arduinobot_ws/src/arduinobot_description -DCMAKE_INSTALL_PREFIX=/home/devansh/arduinobot_ws/install/arduinobot_description
+Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_description -- -j12 -l12
+Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_description -- -j12 -l12
+Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_description
+Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_description

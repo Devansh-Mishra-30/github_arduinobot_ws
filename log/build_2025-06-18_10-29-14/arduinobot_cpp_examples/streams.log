@@ -1,0 +1,14 @@
+[0.013s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[0.061s] [35m[1mConsolidate compiler generated dependencies of target simple_parameter[0m
+[0.072s] [ 12%] [32mBuilding CXX object CMakeFiles/simple_service_server.dir/src/simple_service_server.cpp.o[0m
+[0.076s] [ 37%] Built target simple_publisher
+[0.076s] [ 62%] Built target simple_subscriber
+[0.081s] [ 87%] Built target simple_parameter
+[0.347s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_service_server.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Karduinobot_msgs/srv/add_two_ints.hpp: No such file or directory
+[0.347s]     3 | #include [01;31m[K<arduinobot_msgs/srv/add_two_ints.hpp>[m[K
+[0.347s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.347s] compilation terminated.
+[0.352s] gmake[2]: *** [CMakeFiles/simple_service_server.dir/build.make:76: CMakeFiles/simple_service_server.dir/src/simple_service_server.cpp.o] Error 1
+[0.353s] gmake[1]: *** [CMakeFiles/Makefile2:221: CMakeFiles/simple_service_server.dir/all] Error 2
+[0.353s] gmake: *** [Makefile:146: all] Error 2
+[0.357s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '2': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
