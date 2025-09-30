@@ -1,0 +1,47 @@
+[0.014s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[0.078s] [  7%] [32mBuilding CXX object CMakeFiles/simple_action_server.dir/src/simple_action_server.cpp.o[0m
+[0.081s] [ 21%] Built target simple_parameter
+[0.082s] [ 35%] Built target simple_subscriber
+[0.083s] [ 57%] Built target simple_publisher
+[0.083s] [ 64%] Built target simple_service_client
+[0.085s] [ 78%] Built target simple_service_server
+[0.088s] [ 92%] Built target simple_action_server_node
+[2.260s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_action_server.cpp:[m[K In member function ‘[01m[Krclcpp_action::GoalResponse arduinobot_cpp_examples::SimpleActionServer::goalCallback(const GoalUUID&, std::shared_ptr<const arduinobot_msgs::action::Fibonacci_Goal_<std::allocator<void> > >)[m[K’:
+[2.261s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_action_server.cpp:31:77:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kuuid[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.261s]    31 |     rclcpp_action::GoalResponse goalCallback([01;35m[Kconst rclcpp_action::GoalUUID& uuid[m[K, std::shared_ptr<const arduinobot_msgs::action::Fibonacci::Goal> goal)
+[2.261s]       |                                              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[2.270s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_action_server.cpp:[m[K In member function ‘[01m[Krclcpp_action::CancelResponse arduinobot_cpp_examples::SimpleActionServer::cancelCallback(std::shared_ptr<rclcpp_action::ServerGoalHandle<arduinobot_msgs::action::Fibonacci> >)[m[K’:
+[2.270s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_action_server.cpp:81:141:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kgoal_handle[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[2.270s]    81 |     rclcpp_action::CancelResponse cancelCallback([01;35m[Kconst std::shared_ptr<rclcpp_action::ServerGoalHandle<arduinobot_msgs::action::Fibonacci>> goal_handle[m[K)
+[2.270s]       |                                                  [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K
+[3.466s] [100%] [32m[1mLinking CXX shared library libsimple_action_server.so[0m
+[3.663s] [100%] Built target simple_action_server
+[3.678s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[3.680s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples
+[3.688s] -- Install configuration: ""
+[3.689s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_action_server_node
+[3.690s] -- Set runtime path of "/home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_action_server_node" to ""
+[3.690s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_publisher
+[3.690s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_subscriber
+[3.690s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_parameter
+[3.691s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_service_server
+[3.691s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_service_client
+[3.691s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/libsimple_action_server.so
+[3.693s] -- Set runtime path of "/home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/libsimple_action_server.so" to ""
+[3.693s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_examples
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_examples
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.sh
+[3.693s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.dsv
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.sh
+[3.693s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.dsv
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.bash
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.sh
+[3.693s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.zsh
+[3.694s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.dsv
+[3.694s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.dsv
+[3.694s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/packages/arduinobot_cpp_examples
+[3.694s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/rclcpp_components/arduinobot_cpp_examples
+[3.694s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig.cmake
+[3.694s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig-version.cmake
+[3.694s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.xml
+[3.698s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples

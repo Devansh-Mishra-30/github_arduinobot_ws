@@ -1,0 +1,10 @@
+[31mCMake Error at CMakeLists.txt:33 (target_include_directories):
+  Error evaluating generator expression:
+
+    $<BUILD;/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/INTERFACE:/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/include>
+
+  Expression did not evaluate to a known generator expression
+
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m
+gmake: *** [Makefile:431: cmake_check_build_system] Error 1

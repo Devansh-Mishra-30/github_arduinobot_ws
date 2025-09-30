@@ -1,0 +1,17 @@
+[0.016s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[0.063s] [35m[1mConsolidate compiler generated dependencies of target simple_action_server_node[0m
+[0.078s] [  7%] [32mBuilding CXX object CMakeFiles/simple_action_server.dir/src/simple_action_server.cpp.o[0m
+[0.080s] [ 35%] Built target simple_parameter
+[0.080s] [ 35%] Built target simple_service_client
+[0.081s] [ 64%] Built target simple_publisher
+[0.081s] [ 64%] Built target simple_subscriber
+[0.086s] [ 78%] Built target simple_service_server
+[0.086s] [ 92%] Built target simple_action_server_node
+[0.359s] [01m[K/home/devansh/arduinobot_ws/src/arduinobot_cpp_examples/src/simple_action_server.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Karduinobot_msgs/action/Fibonacci.hpp: No such file or directory
+[0.359s]     3 | #include [01;31m[K<arduinobot_msgs/action/Fibonacci.hpp>[m[K
+[0.359s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.359s] compilation terminated.
+[0.364s] gmake[2]: *** [CMakeFiles/simple_action_server.dir/build.make:76: CMakeFiles/simple_action_server.dir/src/simple_action_server.cpp.o] Error 1
+[0.364s] gmake[1]: *** [CMakeFiles/Makefile2:279: CMakeFiles/simple_action_server.dir/all] Error 2
+[0.364s] gmake: *** [Makefile:146: all] Error 2
+[0.368s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '2': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12

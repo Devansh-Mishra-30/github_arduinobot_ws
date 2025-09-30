@@ -1,0 +1,47 @@
+[0.286s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_remote': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_remote -- -j12 -l12
+[0.358s] [ 50%] Built target task_server_node
+[0.362s] [ 50%] Built target ament_cmake_python_copy_arduinobot_remote
+[0.367s] [100%] Built target task_server
+[0.610s] running egg_info
+[0.610s] writing arduinobot_remote.egg-info/PKG-INFO
+[0.610s] writing dependency_links to arduinobot_remote.egg-info/dependency_links.txt
+[0.611s] writing top-level names to arduinobot_remote.egg-info/top_level.txt
+[0.614s] reading manifest file 'arduinobot_remote.egg-info/SOURCES.txt'
+[0.615s] writing manifest file 'arduinobot_remote.egg-info/SOURCES.txt'
+[0.657s] [100%] Built target ament_cmake_python_build_arduinobot_remote_egg
+[0.672s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_remote' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_remote -- -j12 -l12
+[0.674s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_remote': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_remote
+[0.682s] -- Install configuration: ""
+[0.682s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/pythonpath.sh
+[0.682s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/pythonpath.dsv
+[0.682s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote-0.0.0-py3.10.egg-info
+[0.682s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote-0.0.0-py3.10.egg-info/top_level.txt
+[0.682s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.682s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote-0.0.0-py3.10.egg-info/PKG-INFO
+[0.683s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.683s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote
+[0.683s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote/__init__.py
+[0.683s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote/task_server.py
+[0.714s] Listing '/home/devansh/arduinobot_ws/install/arduinobot_remote/local/lib/python3.10/dist-packages/arduinobot_remote'...
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/lib/arduinobot_remote/task_server_node
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/lib/$(PROJECT_NAME)/task_server.py
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/lib/libtask_server.so
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/launch
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/launch/remote_interface.launch.py
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/ament_index/resource_index/package_run_dependencies/arduinobot_remote
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/ament_index/resource_index/parent_prefix_path/arduinobot_remote
+[0.720s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/ament_prefix_path.sh
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/ament_prefix_path.dsv
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/path.sh
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/environment/path.dsv
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/local_setup.bash
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/local_setup.sh
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/local_setup.zsh
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/local_setup.dsv
+[0.721s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/package.dsv
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/ament_index/resource_index/packages/arduinobot_remote
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/ament_index/resource_index/rclcpp_components/arduinobot_remote
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/cmake/arduinobot_remoteConfig.cmake
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/cmake/arduinobot_remoteConfig-version.cmake
+[0.721s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_remote/share/arduinobot_remote/package.xml
+[0.724s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_remote' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_moveit:/home/devansh/arduinobot_ws/install/arduinobot_msgs:/home/devansh/arduinobot_ws/install/arduinobot_description:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_remote

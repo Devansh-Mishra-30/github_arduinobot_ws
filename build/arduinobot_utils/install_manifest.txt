@@ -6,6 +6,7 @@
 /home/devansh/arduinobot_ws/install/arduinobot_utils/local/lib/python3.10/dist-packages/arduinobot_utils-0.0.0-py3.10.egg-info/dependency_links.txt
 /home/devansh/arduinobot_ws/install/arduinobot_utils/local/lib/python3.10/dist-packages/arduinobot_utils/__init__.py
 /home/devansh/arduinobot_ws/install/arduinobot_utils/local/lib/python3.10/dist-packages/arduinobot_utils/angle_conversion.py
+/home/devansh/arduinobot_ws/install/arduinobot_utils/lib/arduinobot_utils/angle_conversion
 /home/devansh/arduinobot_ws/install/arduinobot_utils/lib/arduinobot_utils/angle_conversion.py
 /home/devansh/arduinobot_ws/install/arduinobot_utils/share/ament_index/resource_index/package_run_dependencies/arduinobot_utils
 /home/devansh/arduinobot_ws/install/arduinobot_utils/share/ament_index/resource_index/parent_prefix_path/arduinobot_utils

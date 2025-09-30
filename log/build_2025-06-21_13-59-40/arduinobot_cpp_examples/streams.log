@@ -1,0 +1,30 @@
+[0.017s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[0.091s] [100%] Built target simple_service_client
+[0.091s] [100%] Built target simple_service_server
+[0.091s] [100%] Built target simple_parameter
+[0.091s] [100%] Built target simple_publisher
+[0.091s] [100%] Built target simple_subscriber
+[0.266s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples -- -j12 -l12
+[0.269s] Invoking command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples
+[0.276s] -- Install configuration: ""
+[0.277s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_publisher
+[0.278s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_subscriber
+[0.278s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_parameter
+[0.279s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_service_server
+[0.280s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/lib/arduinobot_cpp_examples/simple_service_client
+[0.280s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_examples
+[0.280s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_examples
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.sh
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/ament_prefix_path.dsv
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.sh
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/environment/path.dsv
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.bash
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.sh
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.zsh
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/local_setup.dsv
+[0.281s] -- Installing: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.dsv
+[0.281s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/ament_index/resource_index/packages/arduinobot_cpp_examples
+[0.282s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig.cmake
+[0.282s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/cmake/arduinobot_cpp_examplesConfig-version.cmake
+[0.282s] -- Up-to-date: /home/devansh/arduinobot_ws/install/arduinobot_cpp_examples/share/arduinobot_cpp_examples/package.xml
+[0.285s] Invoked command in '/home/devansh/arduinobot_ws/build/arduinobot_cpp_examples' returned '0': AMENT_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/devansh/arduinobot_ws/install/arduinobot_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/devansh/arduinobot_ws/build/arduinobot_cpp_examples
