@@ -36,7 +36,8 @@ rclcpp_components_register_node(task_server
 
 install(PROGRAMS
   ${PROJECT_NAME}/task_server.py
-  DESTINATION lib/$(PROJECT_NAME)
+  ${PROJECT_NAME}/alexa_interface.py
+  DESTINATION lib/${PROJECT_NAME}
 )
 
 install(TARGETS

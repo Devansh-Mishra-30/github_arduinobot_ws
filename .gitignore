@@ -1,0 +1,15 @@
+build/
+install/
+log/
+
+frames_*.gv
+frames_*.pdf
+robot.xml
+
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.swp
+*.tmp

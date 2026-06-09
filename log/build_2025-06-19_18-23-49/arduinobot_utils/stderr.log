@@ -1,5 +1,0 @@
-[31mCMake Error at CMakeLists.txt:25 (install):
-  install does not recognize sub-command TARGET
-
-[0m
-gmake: *** [Makefile:254: cmake_check_build_system] Error 1
